@@ -18,6 +18,12 @@
     <td>💻 Exploring <b>Full-Stack Development & AI</b></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>🎓 <b>AI & DS Student at VIIT, Pune</b> (Graduating in 2027)</td>
+    <td>💻 Exploring <b>Full-Stack Development & AI</b></td>
+  </tr>
+</table>
 
 ---
 
@@ -38,14 +44,12 @@
 ### 🌐 Web Development:
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](https://www.php.net/)  
 
-### 🔍 Data Science & AI:
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)  [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1D3557?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)  
-
 ### 🔌 IoT & Embedded Systems:
 [![IoT](https://img.shields.io/badge/IoT-FF5733?logo=raspberrypi&logoColor=white&style=for-the-badge)](https://www.raspberrypi.org/)  [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)  [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2C3E50?logo=embeddedc&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Embedded_system)  
 
 ### 🛠 Tools & Technologies:
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)  [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
+ [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)  
 
 ---
 
@@ -57,8 +61,19 @@
 ---
 
 ## 📊 GitHub Stats:
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayPatil165&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatil165&layout=compact&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayPatil165&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayPatil165&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatil165&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayPatil165&show_icons=true&theme=onedark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatil165&layout=compact&theme=onedark)  
 
 ---
 
