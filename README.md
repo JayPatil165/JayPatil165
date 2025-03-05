@@ -22,9 +22,7 @@ Aspiring Data Scientist with expertise in **Python, C++, Web Development, and Da
 ## 🛠 Tech Stack:
 
 ### 🚀 Programming:
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/)  [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)  
 
 ### 🌐 Web Development:
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
