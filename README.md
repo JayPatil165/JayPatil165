@@ -10,6 +10,11 @@
 <table>
   <tr>
     <td>🎓 <b>AI & DS Student at VIIT, Pune</b> (Graduating in 2027)</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Diploma in Industrial Electronics</b> - Walchand College of Engineering, Sangli (2021-2024)</td>
+  </tr>
+  <tr>
     <td>💻 Exploring <b>Full-Stack Development & AI</b></td>
   </tr>
 </table>
@@ -25,7 +30,10 @@
 ## 🛠 Skills:
 
 ### 🚀 Programming Languages:
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/)  [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)  [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)](https://neo4j.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/)  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/)  
+
+### 🗄️ Databases:
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)  [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)](https://neo4j.com/)  
 
 ### 🌐 Web Development:
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](https://www.php.net/)  
