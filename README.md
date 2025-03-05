@@ -12,52 +12,45 @@ Aspiring Data Scientist with expertise in **Python, C++, Web Development, and Da
 
 ---
 
-## 🔥 Skills
-- **Programming:** Python, C++, SQL
-- **Database Management:** MySQL, Neo4j
-- **Version Control:** Git, GitHub
-- **Web Development:** HTML, CSS, JavaScript
-- **Cloud Fundamentals**
-- **UI/UX Design**
-- **Machine Learning & Data Science**
+## 🔗 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayPatil165)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patil-4ab857326/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:patiljay32145@gmail.com)  
 
 ---
 
-## 💡 Projects
-### 📌 **IV Monitoring and Control** (12/2023 - 04/2024)
-- Developed an **automated IV monitoring system** using **Arduino** for the final-year diploma capstone project.
-- Implemented electronic components to **automate fluid flow monitoring** in hospitals.
+## 🛠 Tech Stack:
 
-### 📌 **Hospital Database Management System**
-- Designed a **web-based hospital database** system using **PHP, SQL, and HTML**.
-- Integrated **admin login for doctors and staff**, and **patient login for reports and appointments**.
+### 🚀 Programming:
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/)  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)  
 
-### 📌 **Resume Parser (AI-Based)**
-- Built an **AI-powered resume parser** to extract and categorize data from resumes.
-- Implemented **Python NLP techniques** to analyze and store structured resume details.
+### 🌐 Web Development:
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+
+---
+
+## 🎡 Featured Projects:
+[![Hospital Database Management](https://img.shields.io/badge/GitHub-HospitalDBMS-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Hospital-Database-Management-Using-php)  
+[![Resume Parser](https://img.shields.io/badge/GitHub-ResumeParser-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Resume-Parser)  
+[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IVMonitoring-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-Control)  
 
 ---
 
 ## 🏆 Experience
-### **Power Control Systems (Internship Trainee) | 06/2023 - 07/2023**
+### **Power Control Systems (Internship Trainee)**
 - Hands-on experience in **control system design, manufacturing, and assembly**.
 - Worked on **control panel development** at **PCS, Kasbe Digraj**.
 
-### **IT Solutions, Sangli (Intern) | 08/2020 - 07/2021**
+### **IT Solutions, Sangli (Intern)**
 - Trained in **computer networking, repair, and maintenance**.
 - Worked on **computer sales, service, and peripheral maintenance**.
 
 ---
 
-## 📊 GitHub Stats
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayPatil165&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatil165&layout=compact&theme=radical)
-
 ---
 
-## 🤝 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayPatil165)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patil-4ab857326/)
-
-📧 **Email:** [patiljay32145@gmail.com](mailto:patiljay32145@gmail.com)
+🔹 *Let's build something amazing together!* 🚀
