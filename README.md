@@ -18,12 +18,6 @@
     <td>💻 Exploring <b>Full-Stack Development & AI</b></td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>🎓 <b>AI & DS Student at VIIT, Pune</b> (Graduating in 2027)</td>
-    <td>💻 Exploring <b>Full-Stack Development & AI</b></td>
-  </tr>
-</table>
 
 ---
 
@@ -70,10 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JayPatil165&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatil165&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </p>
-
----
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayPatil165&show_icons=true&theme=onedark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatil165&layout=compact&theme=onedark)  
 
 ---
 
