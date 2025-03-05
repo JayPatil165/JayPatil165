@@ -13,9 +13,7 @@ Aspiring Data Scientist with expertise in **Python, C++, Web Development, and Da
 ---
 
 ## 🔗 Connect with Me:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayPatil165)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patil-4ab857326/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:patiljay32145@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayPatil165)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patil-4ab857326/)  [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:patiljay32145@gmail.com)  
 
 ---
 
@@ -33,7 +31,6 @@ Aspiring Data Scientist with expertise in **Python, C++, Web Development, and Da
 
 ## 🎡 Featured Projects:
 [![Hospital Database Management](https://img.shields.io/badge/GitHub-HospitalDBMS-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Hospital-Database-Management-Using-php)  
-[![Resume Parser](https://img.shields.io/badge/GitHub-ResumeParser-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Resume-Parser)  
 [![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IVMonitoring-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-Control)  
 
 ---
@@ -49,6 +46,5 @@ Aspiring Data Scientist with expertise in **Python, C++, Web Development, and Da
 
 ---
 
----
 
 🔹 *Let's build something amazing together!* 🚀
