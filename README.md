@@ -49,16 +49,11 @@
 
 ## 🎡 Featured Projects:
 [![Hospital Database Management](https://img.shields.io/badge/GitHub-HospitalDBMS-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Hospital-Database-Management-Using-php)  
-[![Resume Parser](https://img.shields.io/badge/GitHub-ResumeParser-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Resume-Parser)  
 [![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IVMonitoring-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-Control)  
 
 ---
 
 ## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayPatil165&theme=onedark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JayPatil165&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
