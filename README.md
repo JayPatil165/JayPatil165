@@ -49,7 +49,7 @@
 
 ## 🎡 Featured Projects:
 [![Hospital Database Management](https://img.shields.io/badge/GitHub-HospitalDBMS-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Hospital-Database-Management-Using-php)  
-[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IVMonitoring-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-Control)  
+[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IVMonitoring-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-and-Control)  
 
 ---
 
