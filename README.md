@@ -30,7 +30,7 @@
 ## 🛠 Skills:
 
 ### 🚀 Programming Languages:
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/)  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/) 
 
 ### 🗄️ Databases:
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)  [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)](https://neo4j.com/)  
@@ -50,6 +50,8 @@
 ## 🎡 Featured Projects:
 [![Hospital Database Management](https://img.shields.io/badge/GitHub-HospitalDBMS-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Hospital-Database-Management-Using-php)  
 [![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IVMonitoring-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-and-Control)  
+[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-WildlifeDashboard-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Wildlife-Call-Management)  
+
 
 ---
 
