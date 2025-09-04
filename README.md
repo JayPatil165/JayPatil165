@@ -48,9 +48,9 @@
 ---
 
 ## 🎡 Featured Projects:
-[![Hospital Database Management](https://img.shields.io/badge/GitHub-HospitalDBMS-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Hospital-Database-Management-Using-php)  
-[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IVMonitoring-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-and-Control)  
-[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-WildlifeDashboard-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Wildlife-Call-Management)  
+[![Hospital Database Management](https://img.shields.io/badge/GitHub-Hospital-DBMS-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Hospital-Database-Management-Using-php)  
+[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-IV-Monitoring-and-Control-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/IV-Monitoring-and-Control)  
+[![IV Monitoring & Control](https://img.shields.io/badge/GitHub-Wildlife-Call-Management-Dashboard-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JayPatil165/Wildlife-Call-Management)  
 
 
 ---
