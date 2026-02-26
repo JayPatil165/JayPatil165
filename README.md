@@ -23,7 +23,7 @@
 
 ## 🔗 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayPatil165)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patil-4ab857326/)  [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:patiljay32145@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/JayPatil165/)  [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?logo=codewars&logoColor=white&style=for-the-badge)](https://www.codewars.com/users/JayPatil165)  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/patiljay32145)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/JayPatil165/)  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge)](https://www.codechef.com/users/jaypatil165) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/patiljay32145)  
 
 ---
 
