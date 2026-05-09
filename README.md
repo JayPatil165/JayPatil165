@@ -1,45 +1,54 @@
-# Hi there, I'm Jay Patil 👋
-
 <div align="center">
 
-<img src="github-header-banner.png" alt="Jay Patil Banner" width="100%"/>
+# Jay Patil
+
+<img src="github-header-banner.png" width="100%" alt="Banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=22\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Computer+Vision+Explorer;Systems+%26+Infrastructure+Builder;AI+%2B+Industrial+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=24\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=900\&lines=Artificial+Intelligence+Engineer;Machine+Learning+%26+Computer+Vision;Full-Stack+Developer;Industrial+Systems+%26+Automation;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
 
-### AI & Data Science @ VIIT Pune • Industrial Electronics Background • Building Intelligent Systems
+<br/>
+
+### AI & Data Science @ VIIT Pune • Industrial Electronics Background • Systems Thinker
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🧠 Who Am I?
 
 ```python
 class JayPatil:
     def __init__(self):
-        self.role = "AI & Data Science Student"
-        self.location = "Pune, Maharashtra, India"
-        self.focus = [
+        self.education = {
+            "degree": "B.Tech in AI & Data Science",
+            "college": "VIIT Pune",
+            "background": "Industrial Electronics"
+        }
+
+        self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
             "Computer Vision",
-            "Developer Tooling",
+            "LLMs & Generative AI",
+            "Systems Architecture",
             "Industrial Automation",
-            "Systems Engineering"
+            "Real-Time Monitoring Systems"
         ]
 
-        self.currently_building = [
-            "AI-powered developer tools",
-            "Wildlife analytics systems",
-            "Computer vision pipelines",
-            "Real-time monitoring dashboards"
+        self.tech_stack = [
+            "Python",
+            "C++",
+            "TypeScript",
+            "React",
+            "TensorFlow",
+            "Node.js"
         ]
 
-        self.languages = ["Python", "C++", "TypeScript", "SQL"]
+        self.current_focus = "Building scalable AI-powered systems"
 
-        self.fun_fact = "I enjoy bridging software intelligence with real-world systems."
+        self.mindset = "Solve real-world problems using technology"
 ```
 
 ---
@@ -53,13 +62,13 @@ class JayPatil:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/your-github)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://kaggle.com/your-kaggle)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@example.com)
 
 </div>
 
 ---
 
-# ⚒️ Tech Arsenal
+# ⚒️ Tech Stack
 
 ## 💻 Languages
 
@@ -71,8 +80,6 @@ class JayPatil:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 </div>
 
@@ -87,7 +94,6 @@ class JayPatil:
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
 
@@ -114,83 +120,62 @@ class JayPatil:
 
 # 🚀 Featured Projects
 
-## 🧪 TestGen AI — Automated Multilingual Testing Agent
+<table>
+<tr>
+<td width="50%">
 
-> AI-powered testing framework designed to automate intelligent unit-test generation across multiple programming languages.
+### 🧪 TestGen AI
 
-### ✨ Key Features
+AI-powered multilingual automated testing agent built for generating intelligent unit tests using LLMs.
 
-* 🧠 Smart AST-based context extraction
-* ⚡ Real-time watch mode regeneration
-* 🌍 Multi-language support
-* 📊 Coverage reporting dashboard
-* 📦 Packaged and distributed through PyPI
+**Tech Stack**
+Python • LLMs • Typer • Rich • PyPI
 
-### 🛠️ Stack
+🔗 [GitHub Repository](https://github.com/your-github/testgen-ai)
+📄 [Documentation](https://your-docs-link.com)
 
-```txt
-Python • LLMs • AST Parsing • Typer CLI • Rich • PyPI
-```
+</td>
+<td width="50%">
 
----
+### 🐾 WildVision
 
-## 🐾 WildVision — AI Wildlife Monitoring Platform
+Computer vision based wildlife monitoring and animal tracking system with real-time analytics.
 
-> Deep learning and computer vision pipeline for automated wildlife observation and tracking.
+**Tech Stack**
+TensorFlow • OpenCV • React • MongoDB
 
-### ✨ Key Features
+🔒 Private Repository
 
-* 🎥 Species identification using CV models
-* 🌙 Nocturnal movement detection
-* 📡 Real-time monitoring architecture
-* 📈 Behavioral analytics dashboard
-* 🗄️ MongoDB-powered storage system
+</td>
+</tr>
 
-### 🛠️ Stack
+<tr>
+<td width="50%">
 
-```txt
-TensorFlow • OpenCV • React • MongoDB • Deep Learning
-```
+### 📍 Wildlife Incident Tracker
 
----
+Real-time wildlife incident reporting and hotspot visualization dashboard.
 
-## 📍 Wildlife Incident Management System
+**Tech Stack**
+React • TypeScript • Node.js • Plotly
 
-> Event-driven emergency incident tracking and analytics platform for wildlife monitoring operations.
+🔗 [GitHub Repository](https://github.com/your-github/wildlife-tracker)
 
-### ✨ Key Features
+</td>
+<td width="50%">
 
-* 📞 Real-time incident reporting
-* 📲 Automated WhatsApp notifications
-* 📊 Interactive Plotly dashboards
-* 🗺️ Incident hotspot visualizations
-* ⚡ Low-latency backend architecture
+### ⚙️ IoT Asset Monitoring System
 
-### 🛠️ Stack
+Embedded safety and monitoring system designed for industrial and medical workflows.
 
-```txt
-React • TypeScript • Node.js • Plotly • Python
-```
+**Tech Stack**
+Embedded C++ • Arduino • Sensors
 
----
+🔗 [GitHub Repository](https://github.com/your-github/iot-monitoring-system)
 
-## ⚙️ IoT Asset Monitoring & Safety System
-
-> Embedded monitoring solution designed for high-risk industrial and medical environments.
-
-### ✨ Key Features
-
-* ⚖️ Precision load-cell monitoring
-* 🚨 Interrupt-driven safety alerts
-* 🔁 Automated motor-based shutdown
-* 🔌 Embedded real-time control logic
-* 🏭 Industrial hardware integration
-
-### 🛠️ Stack
-
-```txt
-Embedded C++ • Arduino • Sensors • Stepper Motors
-```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -201,17 +186,15 @@ Embedded C++ • Arduino • Sensors • Stepper Motors
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -221,45 +204,26 @@ Embedded C++ • Arduino • Sensors • Stepper Motors
 
 ---
 
-# 🏆 Highlights
+# 🏆 Developer Highlights
 
 <div align="center">
 
-| Achievement              | Details                                      |
-| ------------------------ | -------------------------------------------- |
-| 🧠 Problem Solving       | 200+ LeetCode Problems Solved                |
-| ⚡ Core Strengths         | DSA • DBMS • Networking • Systems            |
-| 🏭 Industrial Experience | Infrastructure & Automation Exposure         |
-| 🤖 AI Interests          | LLMs • Computer Vision • Intelligent Systems |
-| 🌍 Vision                | Build technology with real-world impact      |
+| Domain               | Details                                  |
+| -------------------- | ---------------------------------------- |
+| 🧠 Problem Solving   | 200+ LeetCode Problems Solved            |
+| ⚡ Core Concepts      | DSA • DBMS • Networking • System Design  |
+| 🤖 AI Interests      | LLMs • Computer Vision • Deep Learning   |
+| 🏭 Industry Exposure | Infrastructure • Automation • Monitoring |
+| 🌍 Vision            | Build impactful intelligent systems      |
 
 </div>
 
 ---
 
-# 📌 Current Focus
-
-```txt
-→ Generative AI & LLM Engineering
-→ Intelligent Developer Tooling
-→ Real-Time AI Systems
-→ Computer Vision Applications
-→ Full-Stack AI Dashboards
-→ Scalable System Architecture
-```
-
----
-
 <div align="center">
 
-## ✨ Philosophy
+⭐ Thanks for visiting my profile! ⭐
 
-> "Build systems that solve meaningful real-world problems."
-
-<br/>
-
-Thanks for visiting my profile ⭐
-
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories and connect with me.
 
 </div>
