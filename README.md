@@ -55,12 +55,10 @@ class JayPatil:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/your-github)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://kaggle.com/your-kaggle)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)]([https://your-portfolio-link.com](https://jaypatil165.github.io/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jay-patil-4ab857326/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jaypatil165)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:patiljay32145@gmail.com)
 
 </div>
 
@@ -129,8 +127,8 @@ AI-powered multilingual automated testing agent built for generating intelligent
 **Tech Stack**
 Python • LLMs • Typer • Rich • PyPI
 
-🔗 [GitHub Repository](https://github.com/your-github/testgen-ai)
-📄 [Documentation](https://your-docs-link.com)
+🔗 [GitHub Repository](https://github.com/JayPatil165/TestGen-AI)
+📄 [Documentation](https://jaypatil165.github.io/TestGen-AI/)
 
 </td>
 <td width="50%">
@@ -157,7 +155,7 @@ Real-time wildlife incident reporting and hotspot visualization dashboard.
 **Tech Stack**
 React • TypeScript • Node.js • Plotly
 
-🔗 [GitHub Repository](https://github.com/your-github/wildlife-tracker)
+🔗 [GitHub Repository](https://github.com/JayPatil165/Wildlife-Call-Management-Dashboard)
 
 </td>
 <td width="50%">
@@ -169,7 +167,7 @@ Embedded safety and monitoring system designed for industrial and medical workfl
 **Tech Stack**
 Embedded C++ • Arduino • Sensors
 
-🔗 [GitHub Repository](https://github.com/your-github/iot-monitoring-system)
+🔗 [GitHub Repository](https://github.com/JayPatil165/IV-Monitoring-and-Control)
 
 </td>
 </tr>
