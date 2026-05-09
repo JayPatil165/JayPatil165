@@ -8,7 +8,7 @@
 
 <br/>
 
-### AI & Data Science @ VIIT Pune • Industrial Electronics Background • Building Real-World AI Solutions
+### AI & Data Science @ VIIT Pune • Industrial Electronics (WCE, Sangli) • Building Real-World AI Solutions
 
 </div>
 
