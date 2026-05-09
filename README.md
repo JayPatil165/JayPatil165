@@ -1,7 +1,5 @@
 <div align="center">
 
-# Jay Patil
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:38BDF8&text=Jay%20Patil&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Machine%20Learning%20•%20Systems&descAlignY=60" alt="Jay Patil Banner"/>
 
 <br/>
