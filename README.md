@@ -174,27 +174,25 @@ Embedded C++ • Arduino • Sensors
 </table>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaypatil165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatil165&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaypatil165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<br/><br/>
+<img height="180em" src="https://streak-stats.demolab.com?user=jaypatil165&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatil165&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatil165&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaypatil165\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/your-github)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaypatil165&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
